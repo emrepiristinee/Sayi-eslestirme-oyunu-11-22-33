@@ -1,0 +1,16 @@
+C:\Users\emret\source\repos\11_22_33_Final\11_22_33_Final\bin\Debug\net5.0\11_22_33_Final.exe
+C:\Users\emret\source\repos\11_22_33_Final\11_22_33_Final\bin\Debug\net5.0\11_22_33_Final.deps.json
+C:\Users\emret\source\repos\11_22_33_Final\11_22_33_Final\bin\Debug\net5.0\11_22_33_Final.runtimeconfig.json
+C:\Users\emret\source\repos\11_22_33_Final\11_22_33_Final\bin\Debug\net5.0\11_22_33_Final.runtimeconfig.dev.json
+C:\Users\emret\source\repos\11_22_33_Final\11_22_33_Final\bin\Debug\net5.0\11_22_33_Final.dll
+C:\Users\emret\source\repos\11_22_33_Final\11_22_33_Final\bin\Debug\net5.0\ref\11_22_33_Final.dll
+C:\Users\emret\source\repos\11_22_33_Final\11_22_33_Final\bin\Debug\net5.0\11_22_33_Final.pdb
+C:\Users\emret\source\repos\11_22_33_Final\11_22_33_Final\obj\Debug\net5.0\11_22_33_Final.csproj.AssemblyReference.cache
+C:\Users\emret\source\repos\11_22_33_Final\11_22_33_Final\obj\Debug\net5.0\11_22_33_Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emret\source\repos\11_22_33_Final\11_22_33_Final\obj\Debug\net5.0\11_22_33_Final.AssemblyInfoInputs.cache
+C:\Users\emret\source\repos\11_22_33_Final\11_22_33_Final\obj\Debug\net5.0\11_22_33_Final.AssemblyInfo.cs
+C:\Users\emret\source\repos\11_22_33_Final\11_22_33_Final\obj\Debug\net5.0\11_22_33_Final.csproj.CoreCompileInputs.cache
+C:\Users\emret\source\repos\11_22_33_Final\11_22_33_Final\obj\Debug\net5.0\11_22_33_Final.dll
+C:\Users\emret\source\repos\11_22_33_Final\11_22_33_Final\obj\Debug\net5.0\ref\11_22_33_Final.dll
+C:\Users\emret\source\repos\11_22_33_Final\11_22_33_Final\obj\Debug\net5.0\11_22_33_Final.pdb
+C:\Users\emret\source\repos\11_22_33_Final\11_22_33_Final\obj\Debug\net5.0\11_22_33_Final.genruntimeconfig.cache
